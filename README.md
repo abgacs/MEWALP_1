@@ -1,1 +1,5 @@
-# MEWALP_1
+pandas
+seaborn
+ipywidgets
+ipydatetime
+plotly
